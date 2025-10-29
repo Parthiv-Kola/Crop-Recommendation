@@ -106,6 +106,8 @@ But I saved them in **artifacts/plots**
 
 ## 🧾 Requirements
 
+- I used anaconda so i don't know if this would work but I mentioned the libraries I installed in the requirements file
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
